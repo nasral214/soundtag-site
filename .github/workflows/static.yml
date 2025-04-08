@@ -44,7 +44,7 @@
   <h1>произошла неизвестная ошибка ⚠</h1>
   <button onclick="playMusic()">попробывать еще раз</button>
 
-  <audio id="myAudio" src="music.mp3" preload="auto"></audio>
+  <audio id="myAudio" src="mega_track.mp3" preload="auto"></audio>
 
   <script>
     function playMusic() {
